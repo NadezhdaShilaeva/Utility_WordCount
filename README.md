@@ -16,6 +16,9 @@ ___WordCount.exe [OPTION] filename___
 -------
 #### Примеры использования программы:
 
-WordCount.exe --lines test_file.txt  
-WordCount.exe --bytes test_file.txt  
-WordCount.exe --words test_file.txt
+1. Входные аргументы: WordCount.exe --lines test_file.txt  
+Выходные данные: 6 
+2. Входные аргументы: WordCount.exe --bytes test_file.txt  
+Выходные данные: 86
+3. Входные аргументы: WordCount.exe --words test_file.txt  
+Выходные данные: 11
